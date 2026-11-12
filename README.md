@@ -88,13 +88,7 @@ SMB message signing was **enabled but not required**. The service supports signi
 
 ## Next Steps
 
-- Packet analysis with Wireshark
-- More Linux and Python for security tasks
-- CCNA studies
-- More Blue Team labs (log analysis, detection)
+Week3 project
 
 ---
-## Repository Structure
 
-
----
